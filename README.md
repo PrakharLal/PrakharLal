@@ -75,14 +75,7 @@
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&border_color=00f7ff" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&border=00f7ff" />
-</p>
-
----
 
 # 🏆 Achievements
 
@@ -104,7 +97,7 @@
 # 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/prakhar-lal">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:lal.prakharlal@gmail.com">
@@ -113,8 +106,6 @@
 </p>
 
 ---
-
-# ⚡ Terminal Mode
 
     > whoami
     Prakhar Lal
