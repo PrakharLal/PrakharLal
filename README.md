@@ -8,9 +8,9 @@ Building AI-driven products & scalable web apps 🚀
 
 - 🎓 BTech CSE Student  
 - 💻 Data Scientist & Full-Stack Developer  
-- 💼 Former Full-Stack Web Developer @ Security BSides Dehradun  
+- 💼 Worked as a Full-Stack Web Developer @ Security BSides Dehradun  
 - 🧠 Exploring AI, Generative AI & Data Science  
-- 🏆 Hackathon Runner-Up @ GDG IEC  
+- 🏆 Multiple Hackathon winner  
 - 🎯 Campus Secretary @ GDG IEC’24  
 
 ---
@@ -26,8 +26,8 @@ Building real-world products that combine **Web + AI**
 ---
 
 ### 📫 Reach Me  
-- LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- Email: your.email@example.com  
+- LinkedIn: https://linkedin.com/in/prakhar-lal  
+- Email: lal.prakharlal@gmail.com
 
 ---
 
