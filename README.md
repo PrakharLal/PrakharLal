@@ -17,7 +17,7 @@
 - Built & deployed production systems serving **7,000+ users**
 - Developing **GenAI applications using LangChain, RAG & LLMs**
 - Strong in **MERN Stack, REST APIs, System Design**
-- Hackathon Winner | Tech Quiz Rank 1 | SIH Winner
+- Multiple Hackathon Winner | Tech DSA Rank 1 | SIH Internal Round Winner
 
 ---
 
