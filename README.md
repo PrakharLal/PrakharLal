@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Prakhar+Lal;Full+Stack+Developer+%7C+GenAI+Engineer;Building+Real-World+Scalable+Systems;7,000%2B+Users+Served+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Prakhar+Lal;Full+Stack+Developer+%7C+GenAI+Engineer;Building+Real-World+Scalable+Systems;7,000%2B+Users+Served+🚀 " />
 </h1>
 
 <h3 align="center">⚡ MERN | 🤖 GenAI | 🧠 DSA | 🚀 System Design</h3>
